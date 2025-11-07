@@ -1,0 +1,4 @@
+MAIL DATASET --> https://www.kaggle.com/datasets/subhajournal/phishingemails
+SMS DATASET --> https://data.mendeley.com/datasets/f45bkkt8pr/1
+URL DATASET --> https://www.kaggle.com/datasets/harisudhan411/phishing-and-legitimate-urls
+WEBSITE DATASET --> https://data.mendeley.com/datasets/n96ncsr5g4/1
