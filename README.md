@@ -67,6 +67,6 @@ To address this, this project leverages **NLP** for text processing and **BERT**
 Email Input → NLP Preprocessing → BERT Embeddings → BERT Classification → Result (Phishing / Legitimate)
 
 
-👨‍💻 Author
+# 👨‍💻 Author
 
-E R Guruvishnukumar.
+**E R Guruvishnukumar**
